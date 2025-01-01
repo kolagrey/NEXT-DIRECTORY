@@ -1,0 +1,35 @@
+export const categories = [
+  { name: "AI Development", slug: "ai-development" },
+  { name: "AI Consulting", slug: "ai-consulting" },
+  { name: "Machine Learning", slug: "machine-learning" },
+  { name: "Computer Vision", slug: "computer-vision" },
+  { name: "Natural Language Processing", slug: "nlp" },
+  { name: "Robotics & Automation", slug: "robotics-automation" },
+  { name: "Data Science", slug: "data-science" },
+  { name: "Deep Learning", slug: "deep-learning" },
+  { name: "AI Infrastructure", slug: "ai-infrastructure" },
+  { name: "MLOps", slug: "mlops" },
+  { name: "AI Research", slug: "ai-research" },
+  { name: "Edge AI", slug: "edge-ai" },
+  { name: "AI Testing & Quality", slug: "ai-testing" },
+  { name: "AI Ethics & Governance", slug: "ai-ethics" },
+  { name: "Conversational AI", slug: "conversational-ai" },
+  { name: "Generative AI", slug: "generative-ai" },
+  { name: "AI Integration", slug: "ai-integration" },
+  { name: "AI Security", slug: "ai-security" },
+  { name: "AI Analytics", slug: "ai-analytics" },
+  { name: "AI Education", slug: "ai-education" },
+  { name: "Healthcare AI", slug: "healthcare-ai" },
+  { name: "Financial AI", slug: "financial-ai" },
+  { name: "Retail AI", slug: "retail-ai" },
+  { name: "Manufacturing AI", slug: "manufacturing-ai" },
+  { name: "AI Marketing", slug: "ai-marketing" },
+  { name: "AI Content Creation", slug: "ai-content" },
+  { name: "AI Product Development", slug: "ai-product" },
+  { name: "AI Strategy", slug: "ai-strategy" },
+  { name: "AI UX/UI", slug: "ai-ux-ui" },
+  { name: "AI Cloud Solutions", slug: "ai-cloud" }
+] as const;
+
+export type Category = typeof categories[number];
+export type CategorySlug = Category["slug"];

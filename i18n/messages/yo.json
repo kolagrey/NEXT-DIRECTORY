@@ -1,0 +1,110 @@
+{
+  "navigation": {
+    "home": "Ile",
+    "about": "Kí nìdí FAATLIST?",
+    "create": "Fi Ilé-iṣẹ Rẹ Kun",
+    "faq": "FAQ"
+  },
+  "common": {
+    "switchLocale": "Ṣe Àyípadà Èdè",
+    "search": "Ṣàwárí",
+    "submit": "Fi Ránṣẹ",
+    "cancel": "Fagilé",
+    "tryAgain": "Tun Gbìyànjú",
+    "browseAgencies": "Ṣàyẹ̀wò àwọn Ilé-iṣẹ",
+    "listAgency": "Fi Ilé-iṣẹ Rẹ Kun",
+    "contactAgency": "Kan sí Ilé-iṣẹ",
+    "visitWebsite": "Ṣàbẹwò Àwùjọ",
+    "backToListing": "Padà sí Àtòjọ"
+  },
+  "sharer": {
+    "title": "Ṣe o mọ ẹnikan tí o lè rí èyí lójúfẹ́ẹ́? Pín an!",
+    "email": "Imeeli",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp"
+  },
+  "why": {
+    "hero": {
+      "titleInWhite": "Ìgbésíṣẹ̀",
+      "titleInColor": "Ìwádìí Ilé-iṣẹ AI",
+      "descriptionInWhite1": "Darapò mọ ẹgbẹ́ àṣà tí àwọn ilé-iṣẹ̀ ati ẹgbẹ́ ńṣe ètò ọ̀jọ̀ iwájú nípa",
+      "descriptionInWhite2": "ìwádìí AI. Jẹ́ kí ilé-iṣẹ rẹ han gẹ́gẹ́ bí ẹni tí o jẹ́ akọkọ. Ilé-iṣẹ rẹ yóò wa n'ibi yìí,",
+      "descriptionInColor": "àti àwọn ibomiiran 300+ tí àwùjọ wíwá wọn dára!"
+    },
+    "cta": {
+      "title": "Ṣe O Tẹ́lẹ̀ Látí Ṣàtúnṣe Èrò Rẹ?",
+      "description": "Darapò mọ ogúnlọ́gọ̀ àwọn ilé-iṣẹ tí wọn ti rí aláfẹ́fẹ́ AI láti ọwọ́ FAATLIST."
+    }
+  },
+  "listings": {
+    "title": "Àtòjọ Ilé-iṣẹ",
+    "createNew": "Ṣẹda Atòjọ Tuntun",
+    "filter": "Àyẹ̀wò Àtòjọ",
+    "noResults": "Kò sí Àtòjọ Kankan"
+  },
+  "home": {
+    "title": "Ṣàwárí Àwọn Ilé-iṣẹ",
+    "subtitle": "Ṣe ìjápọ̀ pẹ̀lú àwọn ilé-iṣẹ kànga káàkiri ayé",
+    "search": "Ṣàwárí àwọn ilé-iṣẹ",
+    "featured": "Àwọn Ilé-iṣẹ Pata",
+    "categories": "Ṣàyẹ̀wò Nipa Ẹ̀ka"
+  },
+  "about": {
+    "title": "Nípa Wa",
+    "mission": "Ìṣe Wa",
+    "missionText": "Ṣe ìjápọ̀ àwọn ilé-iṣẹ kànga pẹ̀lú àwọn oníbàárà káàkiri ayé",
+    "vision": "Ìran Wa",
+    "visionText": "Lati jẹ àtòjọ àgbáyé tó dára jùlọ fún àwọn ilé-iṣẹ kànga",
+    "values": "Àṣà Wa",
+    "valuesText": "Didára, Àfihàn Òtítọ́, Àwọn Àṣàrò Tuntun"
+  },
+  "create": {
+    "title": "Ṣẹda Àtòjọ Ilé-iṣẹ",
+    "agencyName": "Orúkọ Ilé-iṣẹ",
+    "description": "Àpejuwe Ilé-iṣẹ",
+    "location": "Ibùdó",
+    "services": "Àwọn Ìṣẹ̀lẹ̀",
+    "contact": "Alágbáwẹ",
+    "submit": "Fi Àtòjọ Ránṣẹ"
+  },
+  "hero": {
+    "findAgencies": "Ṣàwárí Àwọn Ilé-iṣẹ ati Ẹgbẹ́",
+    "announcement": "Àwọn Àyè 50 Ọ̀fẹ́ Ọ̀sẹ̀ yìí! 🎅 🎉",
+    "title": "Ṣẹda ati Ṣẹ àwárí àwọn iṣẹ́ rẹ laarin àgbékalẹ ati àkókò rẹ!",
+    "description": "Ṣe àṣeyọrí àwọn èrò rẹ pẹ̀lú àwọn ilé-iṣẹ AI tí a ti dáyọ̀."
+  },
+  "agencyForm": {
+    "cardTitle": "Firanṣẹ ajọ rẹ tabi ẹgbẹ rẹ",
+    "cardSubtitle": "Ẹgbẹẹgbẹrun oludasilẹ yoo rii",
+    "uploadLogo": "Gbe Logo silẹ",
+    "agencyName": "Orukọ Ajọ/Ẹgbẹ",
+    "shortDescription": "Apejuwe Kukuru",
+    "fullDescription": "Apejuwe Gbogbo",
+    "yearFounded": "Ọdun ti a da",
+    "projectsDone": "Awọn iṣẹ ti a ṣe",
+    "email": "Imeeli",
+    "telephone": "Foonu",
+    "location": "Ipo",
+    "websiteURL": "URL oju opo wẹẹbu",
+    "linkedinURL": "URL LinkedIn",
+    "twitterHandle": "Ibo X/Twitter",
+    "specialtyCategory": "Ẹka amọja ajọ/ẹgbẹ",
+    "skills": "Awọn ọgbọn ajọ/ẹgbẹ",
+    "teamSize": "Iwọn Ẹgbẹ",
+    "budgetFrom": "Isuna lati",
+    "pitchVideoURL": "URL fidio ipolowo (aṣayan)",
+    "supportTeamMembers": "Awọn ọmọ ẹgbẹ atilẹyin",
+    "portfolioRequired": "* Portfolio (Ọkan jẹ dandan)",
+    "addMember": "Fi ọmọ ẹgbẹ kun",
+    "remove": "Yọ",
+    "addPortfolioItem": "Fi ohun kan kun portfolio",
+    "checkout": "Ṣayẹwo",
+    "getListed": "Gba akojọ ni awọn wakati 24"
+  }
+}

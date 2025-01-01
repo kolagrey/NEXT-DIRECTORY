@@ -1,0 +1,227 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "Why FAATLIST?",
+    "create": "List Your Agency",
+    "faq": "FAQ"
+  },
+  "common": {
+    "switchLocale": "Change Language",
+    "search": "Search",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "tryAgain": "Try Again",
+    "browseAgencies": "Browse Agencies",
+    "listAgency": "List Your Agency",
+    "contactAgency": "Contact Agency",
+    "visitWebsite": "Visit Website",
+    "visitLinkedIn": "Connect on LinkedIn",
+    "visitTwitter": "Follow on X/Twitter",
+    "backToListing": "Back to List"
+  },
+  "sharer": {
+    "title": "Know someone who might benefit? Share it!",
+    "email": "Email",
+    "twitter": "Twitter",
+    "linkedin": "Linkedin",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "Youtube",
+    "tiktok": "Tiktok",
+    "telegram": "Telegram",
+    "whatsapp": "Whatsapp"
+  },
+  "why": {
+    "hero": {
+      "titleInWhite": "Revolutionizing",
+      "titleInColor": "Ai Agency Discovery",
+      "descriptionInWhite1": "Join the exclusive group of pioneering agencies and teams shaping the future of the",
+      "descriptionInWhite2": "industry. Get unparalleled visibility, leads, and connect  with top clients before anyone else. Your agency or team will be listed here,",
+      "descriptionInColor": "and published on socia media with full SEO support!",
+      "subdescription1": "We are transforming how businesses and non-technical founders  can find and collaborate with tech agencies or teams embracing the power of",
+      "subdescription2": ". No more endless searching, quickly find agencies or teams you can work with within your time and budget."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Idea?",
+      "description": "Join hundreds of successful businesses who have found their perfect tech partner through FAATLIST."
+    }
+  },
+  "listings": {
+    "title": "Agency Directory",
+    "createNew": "Create New Listing",
+    "filter": "Filter Listings",
+    "noResults": "No listings found"
+  },
+  "home": {
+    "title": "Find Agencies and Teams",
+    "subtitle": "Find and connect with creative agencies worldwide",
+    "search": "Search agencies",
+    "featured": "Featured Agencies",
+    "categories": "Browse by Category"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "Our Mission",
+    "missionText": "Connecting creative agencies with clients worldwide",
+    "vision": "Our Vision",
+    "visionText": "To be the leading global directory for creative agencies",
+    "values": "Our Values",
+    "valuesText": "Quality, Transparency, Innovation"
+  },
+  "create": {
+    "title": "Create Agency Profile",
+    "agencyName": "Agency Name",
+    "description": "Agency Description",
+    "location": "Location",
+    "services": "Services",
+    "contact": "Contact Information",
+    "submit": "Submit Profile"
+  },
+  "hero": {
+    "findAgencies": "Find Agencies and Teams",
+    "announcement": "List your agency for FREE! 🎉🎉🎉",
+    "title": "Build and Launch your MVP or Full Scale Projects within Budget and Time!",
+    "description": "Turn your ideas into reality fast with verified Ai tech agencies and consultants."
+  },
+  "listing": {
+    "searchPlaceholder": "Search available agencies",
+    "errorTitle": "Oops! Something went wrong",
+    "errorDescription": "We're having trouble loading the agencies right now. This might be temporary, so please try again.",
+    "emptyStateTitle": "Be the First!",
+    "emptyStateSubtitle": "List Your Agency or Team now.",
+    "emptyStateDescription": "Join the exclusive group of pioneering agencies and teams shaping the future of the Ai industry. Get unparalleled visibility, leads, and connect with top clients before anyone else. Your agency or team will be listed here with support for dofollow link, and with full SEO support!",
+    "endOfListMessage": "You've reached the end of the list! 🎉"
+  },
+  "footer": {
+    "copyright": " 2024 Agency Directory. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us",
+    "stayUpdated": "Stay Updated",
+    "stayUpdatedDescription": "Know when we launch something cool.\nWe promise not to spam you.",
+    "enterEmail": "Enter your email",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing...",
+    "connect": "Connect",
+    "email": "Email",
+    "twitter": "Twitter",
+    "allRightsReserved": "All rights reserved.",
+    "builtWith": "Built with ❤️️ and",
+    "by": "by"
+  },
+  "faq": {
+    "hero": {
+      "view": {
+        "title": "Frequently Asked Questions",
+        "description": "Find quick answers to common questions about FAATLIST. Can't find what you're looking for?",
+        "contact": "Contact our support team.",
+        "searchPlaceholder": "Search FAQs..."
+      }
+    },
+    "general": {
+      "title": "General Information",
+      "items": [
+        {
+          "question": "What is FAATLIST?",
+          "answer": "FAATLIST is a curated platform showcasing freelancers and development teams who specialize in building MVPs (Minimum Viable Products). We feature verified professionals who can create various digital products including web applications, mobile apps, browser extensions, and AI-powered solutions."
+        },
+        {
+          "question": "How do I find the right agency/team?",
+          "answer": "Browse through our comprehensive list of verified agencies and teams, each with detailed profiles showing their expertise and pricing. You can filter based on your specific project needs, whether it's a web app, mobile application, or AI tool development."
+        },
+        {
+          "question": "What's FAATLIST's role in client-agency/team relationships?",
+          "answer": "We operate as a directory service, connecting clients with skilled agencies and teams. While we carefully vet all listings, we recommend conducting your own due diligence before engaging with any professional. We don't directly manage or take responsibility for individual project outcomes."
+        },
+        {
+          "question": "Is it free to browse the directory?",
+          "answer": "Yes, browsing the FAATLIST is completely free. Each listed professional or agency sets their own service rates, which you can find detailed in their individual profiles."
+        }
+      ]
+    },
+    "listings": {
+      "title": "Listings & Submissions",
+      "items": [
+        {
+          "question": "How do I list my services?",
+          "answer": "To join our directory, click the 'List Your Agency' button and complete the submission form with your professional details, expertise, and service offerings. Our team will review your submission to ensure it meets our quality standards before publishing."
+        }
+      ]
+    }
+  },
+  "landing": {
+    "verifiedAgency": "Verified Agency",
+    "budgetFrom": "Budget from",
+    "teamSize": "Team size is",
+    "founded": "Founded in",
+    "projectsCompleted": "Projects completed",
+    "featuredProjects": "Featured Projects",
+    "quickInfo": "Quick Info",
+    "unspecified": "unspecified",
+    "viewProject": "View Project"
+  },
+  "checkout": {
+    "main": {
+      "title": "WELCOME TO FAATLIST!",
+      "description": "Your agency listing has been successfully created and waiting for approval."
+    },
+    "benefit1": {
+      "title": "Your listing will be live after approval.",
+      "description": "Founders, non-technical teams, and businesses around the world can now discover and reach out to your agency."
+    },
+    "benefit2": {
+      "title": "Enhanced visibility",
+      "description": "Your agency will be published with leads generation, full SEO support, dofollow link, and social media posts."
+    },
+    "nextStep": {
+      "title": "Next steps",
+      "description": "You will be notified when your listing is live."
+    },
+    "previewButtonText": "Preview Your Listing"
+  },
+  "payWithStripe": {
+    "pay": "Pay $20.00",
+    "processing": "Processing..."
+  },
+  "paymentView": {
+    "success": {
+      "title": "Your payment was successful! We are excited to have you on board."
+    },
+    "cancel": {
+      "title": "Payment was canceled!",
+      "description": "The payment process was canceled. Would you like to try again?"
+    },
+    "default": {
+      "title": " No payment processed!",
+      "description": "Failed to store payment information."
+    }
+  },
+  "agencyForm": {
+    "cardTitle": "Submit your agency or team",
+    "cardSubtitle": "Thousands of founders will see it",
+    "uploadLogo": "Upload Logo",
+    "agencyName": "Agency/Team Name",
+    "shortDescription": "Short Description",
+    "fullDescription": "Full Description",
+    "yearFounded": "Year Founded",
+    "projectsDone": "Projects Done",
+    "email": "Email",
+    "telephone": "Telephone",
+    "location": "Location",
+    "websiteURL": "Website URL",
+    "linkedinURL": "LinkedIn URL",
+    "twitterHandle": "X/Twitter handle",
+    "specialtyCategory": "Agency/Team Specialty Category",
+    "skills": "Agency/Team Skills",
+    "teamSize": "Team Size",
+    "budgetFrom": "Budget From",
+    "pitchVideoURL": "Pitch Video URL (optional)",
+    "supportTeamMembers": "Support Team Members",
+    "portfolioRequired": "* Portfolio (One is required)",
+    "addMember": "Add Member",
+    "remove": "Remove",
+    "addPortfolioItem": "Add Portfolio Item",
+    "checkout": "Checkout",
+    "getListed": "Get listed within 24 hours"
+  }
+}

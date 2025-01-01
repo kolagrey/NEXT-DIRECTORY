@@ -1,0 +1,198 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "¿Por qué FAATLIST?",
+    "create": "Lista tu agencia",
+    "faq": "Preguntas frecuentes"
+  },
+  "common": {
+    "switchLocale": "Cambiar idioma",
+    "search": "Buscar",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "tryAgain": "Intenta de nuevo",
+    "browseAgencies": "Explorar Agencias",
+    "listAgency": "Liste su Agencia",
+    "contactAgency": "Contactar Agencia",
+    "visitWebsite": "Visitar Sitio Web",
+    "visitLinkedIn": "Conectar en LinkedIn",
+    "visitTwitter": "Seguir en X/Twitter",
+    "backToListing": "Volver a la Lista"
+  },
+  "sharer": {
+    "title": "¿Conoces a alguien que podría beneficiarse? ¡Compártelo!",
+    "email": "Email",
+    "twitter": "Twitter",
+    "linkedin": "Linkedin",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "Youtube",
+    "tiktok": "Tiktok",
+    "telegram": "Telegram",
+    "whatsapp": "Whatsapp"
+  },
+  "why": {
+    "hero": {
+      "titleInWhite": "Revolucionando",
+      "titleInColor": "el Descubrimiento de Agencias de IA",
+      "descriptionInWhite1": "Únete al grupo exclusivo de agencias pioneras y equipos que están dando forma al futuro de la",
+      "descriptionInWhite2": "industria. Obtén visibilidad inigualable, leads y conéctate con los principales clientes antes que nadie. Tu agencia o equipo se listará aquí,",
+      "descriptionInColor": "y publicado en las redes sociales con soporte completo de SEO!",
+      "subdescription1": "Estamos transformando cómo las empresas y fundadores no técnicos pueden encontrar y colaborar con agencias o equipos que abrazan el poder de",
+      "subdescription2": ". No más búsquedas interminables, encuentra rápidamente agencias o equipos con los que puedes trabajar dentro de tu tiempo y presupuesto."
+    },
+    "cta": {
+      "title": "¿Listo para Transformar Tu Idea?",
+      "description": "Únete a cientos de negocios exitosos que han encontrado a su socio tecnológico perfecto a través de FAATLIST."
+    }
+  },
+  "listings": {
+    "title": "Directorio de agencias",
+    "createNew": "Crear nuevo anuncio",
+    "filter": "Filtrar anuncios",
+    "noResults": "No se encontraron anuncios"
+  },
+  "listing": {
+    "searchPlaceholder": "Buscar agencias disponibles",
+    "errorTitle": "¡Ups! Algo salió mal",
+    "errorDescription": "Estamos teniendo problemas para cargar las agencias en este momento. Esto podría ser temporal, así que inténtalo de nuevo.",
+    "emptyStateTitle": "¡Sé el primero!",
+    "emptyStateSubtitle": "Lista tu agencia o equipo ahora.",
+    "emptyStateDescription": "Únete al grupo exclusivo de agencias y equipos pioneros que están dando forma al futuro de la industria de la IA. Obtén visibilidad inigualable, prospectos y conéctate con los mejores clientes antes que nadie. ¡Tu agencia o equipo se incluirá aquí con soporte para enlaces dofollow y con soporte completo de SEO!",
+    "endOfListMessage": "¡Has llegado al final de la lista! "
+  },
+  "hero": {
+    "announcement": "¡Lista tu agencia GRATIS! 🎉🎉🎉",
+    "findAgencies": "Encuentra Agencias y Equipos",
+    "title": "Construya y lance su MVP o proyectos a gran escala dentro del presupuesto y el tiempo!",
+    "description": "Convierta sus ideas en realidad rápidamente con agencias tecnológicas verificadas y consultores de Ai."
+  },
+  "footer": {
+    "stayUpdated": "Mantente actualizado",
+    "stayUpdatedDescription": "Sabe cuándo lanzamos algo genial.\nPrometemos no enviarte spam.",
+    "enterEmail": "Introduce tu correo electrónico",
+    "subscribe": "Suscribirse",
+    "subscribing": "Suscribiéndose...",
+    "connect": "Conectar",
+    "email": "Correo electrónico",
+    "twitter": "Twitter",
+    "allRightsReserved": "Todos los derechos reservados.",
+    "builtWith": "Construido con  y",
+    "by": "por"
+  },
+  "faq": {
+    "hero": {
+      "view": {
+        "title": "Preguntas Frecuentes",
+        "description": "Encuentra respuestas rápidas a preguntas comunes sobre FAATLIST. ¿No puedes encontrar lo que buscas?",
+        "contact": "Contacta a nuestro equipo de soporte",
+        "searchPlaceholder": "Buscar en las preguntas frecuentes..."
+      }
+    },
+    "general": {
+      "title": "Información General",
+      "items": [
+        {
+          "question": "¿Qué es FAATLIST?",
+          "answer": "FAATLIST es una plataforma curada que muestra freelancers y equipos de desarrollo que se especializan en construir MVPs (Productos Mínimamente Viables). Presentamos profesionales verificados que pueden crear varios productos digitales, incluyendo aplicaciones web, aplicaciones móviles, extensiones de navegador y soluciones impulsadas por IA."
+        },
+        {
+          "question": "¿Cómo encuentro la agencia/equipo adecuado?",
+          "answer": "Navega a través de nuestra lista completa de agencias y equipos verificados, cada uno con perfiles detallados que muestran su experiencia y precios. Puedes filtrar según tus necesidades específicas del proyecto, ya sea una aplicación web, una aplicación móvil o el desarrollo de herramientas de IA."
+        },
+        {
+          "question": "¿Cuál es el papel de FAATLIST en las relaciones entre clientes y agencias/equipos?",
+          "answer": "Operamos como un servicio de directorio, conectando a los clientes con agencias y equipos calificados. Si bien revisamos cuidadosamente todos los listados, recomendamos realizar tu propia diligencia debida antes de interactuar con cualquier profesional. No gestionamos directamente ni asumimos la responsabilidad de los resultados de proyectos individuales."
+        },
+        {
+          "question": "¿Es gratis navegar por el directorio?",
+          "answer": "Sí, navegar por FAATLIST es completamente gratis. Cada profesional o agencia listada establece sus propias tarifas de servicio, que puedes encontrar detalladas en sus perfiles individuales."
+        }
+      ]
+    },
+    "listings": {
+      "title": "Listados y Presentaciones",
+      "items": [
+        {
+          "question": "¿Cómo enumero mis servicios?",
+          "answer": "Para unirte a nuestro directorio, haz clic en el botón 'Lista tu Agencia' y completa el formulario de presentación con tus detalles profesionales, experiencia y ofertas de servicios. Nuestro equipo revisará tu presentación para asegurarse de que cumpla con nuestros estándares de calidad antes de publicarla."
+        }
+      ]
+    }
+  },
+  "landing": {
+    "verifiedAgency": "Agencia verificada",
+    "budgetFrom": "Presupuesto desde",
+    "teamSize": "El tamaño del equipo es",
+    "founded": "Fundada en",
+    "projectsCompleted": "Proyectos completados",
+    "featuredProjects": "Proyectos destacados",
+    "quickInfo": "Información rápida",
+    "unspecified": "no especificado",
+    "viewProject": "Ver proyecto"
+  },
+  "checkout": {
+    "main": {
+      "title": "¡BIENVENIDO A FAATLIST!",
+      "description": "El listado de tu agencia se ha creado con éxito y está pendiente de aprobación."
+    },
+    "benefit1": {
+      "title": "Tu listado estará activo después de la aprobación.",
+      "description": "Fundadores, equipos no técnicos y empresas de todo el mundo ahora pueden descubrir y contactar a tu agencia."
+    },
+    "benefit2": {
+      "title": "Visibilidad mejorada",
+      "description": "Tu agencia se publicará con generación de prospectos, soporte completo de SEO, enlace dofollow y publicaciones en redes sociales."
+    },
+    "nextStep": {
+      "title": "Próximos pasos",
+      "description": "Completa tu pago para finalizar tu listado."
+    },
+    "previewButtonText": "Previsualiza tu listado"
+  },
+  "payWithStripe": {
+    "pay": "Pagar $20.00",
+    "processing": "Procesando..."
+  },
+  "paymentView": {
+    "success": {
+      "title": "¡Tu pago fue exitoso! Estamos emocionados de tenerte a bordo."
+    },
+    "cancel": {
+      "title": "¡El pago fue cancelado!",
+      "description": "El proceso de pago fue cancelado. ¿Te gustaría intentarlo de nuevo?"
+    },
+    "default": {
+      "title": "¡No se procesó el pago!",
+      "description": "Error al almacenar la información del pago."
+    }
+  },
+  "agencyForm": {
+    "cardTitle": "Envía tu agencia o equipo",
+    "cardSubtitle": "Miles de fundadores lo verán",
+    "uploadLogo": "Subir logo",
+    "agencyName": "Nombre de la agencia/equipo",
+    "shortDescription": "Descripción corta",
+    "fullDescription": "Descripción completa",
+    "yearFounded": "Año de fundación",
+    "projectsDone": "Proyectos realizados",
+    "email": "Correo electrónico",
+    "telephone": "Teléfono",
+    "location": "Ubicación",
+    "websiteURL": "URL del sitio web",
+    "linkedinURL": "URL de LinkedIn",
+    "twitterHandle": "Manejo de X/Twitter",
+    "specialtyCategory": "Categoría de especialidad de la agencia/equipo",
+    "skills": "Habilidades de la agencia/equipo",
+    "teamSize": "Tamaño del equipo",
+    "budgetFrom": "Presupuesto desde",
+    "pitchVideoURL": "URL del video de presentación (opcional)",
+    "supportTeamMembers": "Miembros del equipo de apoyo",
+    "portfolioRequired": "* Portafolio (Se requiere uno)",
+    "addMember": "Agregar miembro",
+    "remove": "Eliminar",
+    "addPortfolioItem": "Agregar elemento al portafolio",
+    "checkout": "Pagar",
+    "getListed": "Ser listado en 24 horas"
+  }
+}
